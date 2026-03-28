@@ -1,5 +1,5 @@
 import { useState } from "react";
-import {, TIER_COLOURS, TIER_OPTIONS, CONTESTED_AREA_OPTIONS } from "../../constants.js";
+import { TIER_COLOURS, TIER_OPTIONS, CONTESTED_AREA_OPTIONS } from "../../constants.js";
 import ScholarList from "../ScholarList.jsx";
 import ScholarDetailPanel from "./ScholarDetailPanel.jsx";
 
